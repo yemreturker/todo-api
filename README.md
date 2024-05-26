@@ -51,9 +51,7 @@ To set up the project locally, follow these steps:
 
 ### Base URL
 
-    ```plaintext
     http://localhost:3000
-    ```
 
 ### Routes
 
@@ -65,7 +63,6 @@ To set up the project locally, follow these steps:
 
 ### Project Structure
 
-    ```plaintext
     todo-api/
     ├── node_modules/
     ├── src/
@@ -78,7 +75,7 @@ To set up the project locally, follow these steps:
     ├── package-lock.json
     ├── package.json
     └── README.md
-    ```
+    
 
 ### License
 
